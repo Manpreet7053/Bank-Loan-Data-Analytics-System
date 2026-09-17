@@ -20,25 +20,6 @@ This project is the **Final Year B.Tech Project (Computer Science & Engineering)
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-### Power BI — Summary Dashboard
-![Summary Dashboard](screenshots/powerbi_summary.png)
-
-### Power BI — Overview Dashboard
-![Overview Dashboard](screenshots/powerbi_overview.png)
-
-### Power BI — Details Dashboard
-![Details Dashboard](screenshots/powerbi_details.png)
-
-### Excel — Summary Dashboard
-![Excel Summary](screenshots/excel_summary.png)
-
-### Excel — Overview Dashboard
-![Excel Overview](screenshots/excel_overview.png)
-
----
-
 ## 🗂️ Repository Structure
 
 ```
@@ -485,35 +466,4 @@ The complete **55-page final year project report** is available in the `report/`
 - [ ] **Regulatory Reports**: Automated HMDA and CRA compliance reports
 - [ ] **NLP Interface**: Power BI Q&A with domain-specific synonyms
 
----
 
-## 👨‍💻 Author
-
-**[Your Full Name]**
-B.Tech Computer Science & Engineering — Final Year
-[Your University Name] | 2024–25
-
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile URL]
-🐙 [GitHub Profile URL]
-
----
-
-## 🙏 Acknowledgements
-
-- Supervisor: **[Supervisor Name]**, [University Name]
-- Tools: PostgreSQL, Python, pandas, matplotlib, seaborn, plotly, Microsoft Power BI, Microsoft Excel
-- Dataset: Financial loan dataset used for academic/analytical purposes
-
----
-
-## 📄 License
-
-This project is submitted as a final year academic project at [University Name].
-All rights reserved © 2024–25 [Your Name].
-
----
-
-<div align="center">
-  <b>⭐ If you found this project helpful, please star the repository!</b>
-</div>
